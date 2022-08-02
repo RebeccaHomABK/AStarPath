@@ -5,6 +5,7 @@
 
 void FindPaths(char origin, std::vector<Coord*> unvisited, std::vector<Path*>& visited);
 
+//  TODO: Implement heuristics
 int main()
 {
     //  Sample map
